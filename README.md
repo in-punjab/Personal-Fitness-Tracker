@@ -43,6 +43,8 @@ Personal-Fitness-Tracker
 
 │
 
+├── requirements.txt
+
 ├── app.py                          # Main application script
 
 ├── fitness_tracker.ipynb           # Analysis notebook
