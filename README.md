@@ -1,6 +1,7 @@
 # 🏋️ Personal Fitness Tracker
 
 A Python-based fitness tracking application designed to monitor exercise routines and calculate calories burned using structured datasets. The project demonstrates data processing, health analytics, and interactive tracking using Python.
+## Live Demo: https://personal-fitness-tracker-2yawapr28fltvemtlqgqjb.streamlit.app/
 
 ## 📌 Project Overview
 
